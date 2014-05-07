@@ -1,3 +1,6 @@
+# tl;dr: NO PULL REQUESTS PLEASE
+## OPEN ISSUES TO DISCUSS CHANGES
+
 Git is not a fan of what we're doing here.  To combat this, we use
 `git checkout --orphan`, which very effectively discards all the history of
 the branch for each tarball.  The benefit is much shorter download times,
